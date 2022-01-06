@@ -5,9 +5,7 @@ using namespace std;
 
 int main() {
 
-    cout << "Bonjour" << endl;
-    cout << "Aurevoir" << endl;
-    cout << "test2" << endl;
+    cout << "Meilleur version de mon programme... fin je crois ... ?" << endl;
     return 0;
 }
 
