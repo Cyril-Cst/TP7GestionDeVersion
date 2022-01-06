@@ -7,7 +7,7 @@ int main() {
 
     cout << "Bonjour" << endl;
     cout << "Aurevoir" << endl;
-    cout << "test" << endl;
+    cout << "test2" << endl;
     return 0;
 }
 
